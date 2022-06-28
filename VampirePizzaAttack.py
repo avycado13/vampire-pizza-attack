@@ -1,4 +1,4 @@
 print ("hello")
-import pygame
+import pygame from pygame import *
 pygame.init()
 
