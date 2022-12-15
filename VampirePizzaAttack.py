@@ -1,6 +1,7 @@
 #Set-up Game
 
 #import libraries
+import sys
 import pygame
 from pygame import *
 from random import randint
